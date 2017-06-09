@@ -1,0 +1,14 @@
+
+checkers/bin/
+.metadata/
+target/
+bin/
+*.swp
+*.swo
+*.orig
+
+# Idea
+.idea
+*.iml
+*/target/**
+*/target/*
